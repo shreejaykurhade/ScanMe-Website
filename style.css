@@ -7,9 +7,9 @@
 }
 
 :root{
-    --bg-color: #001122;
-    --primary-color: #155e75;
-    --text-color: white;
+    --bg-color: white;
+    --primary-color: #efefef;
+    --text-color: #001122;
     --border-radius: 8px;
     --border-color: #7fb7c9;
 }
